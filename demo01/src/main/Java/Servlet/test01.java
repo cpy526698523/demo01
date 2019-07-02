@@ -1,5 +1,5 @@
 package Servlet;
 
 public class test01 {
-    int a;
+    int a=1;
 }

@@ -6,7 +6,7 @@ import java.io.IOException;
 
 @WebServlet("/demo")
 public class MyServlet implements Servlet {
-//123456
+//
     @Override
     public void init(ServletConfig config) throws ServletException {
 
